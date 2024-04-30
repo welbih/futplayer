@@ -1,0 +1,2 @@
+INSERT INTO tb_user(name, nickname, email, phone, birth_date, password) VALUES ('Joana Dark', 'Agente Dark', 'joana@datadynecode.com', '619923456789', '2000-01-01', '123456');
+INSERT INTO tb_user(name, nickname, email, phone, birth_date, password) VALUES ('Cassandra Skedar', 'cassanSim', 'cassandra@gmail.com', '619998765432', '1999-01-01', '123456');
